@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# rema-stac
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of rema-stac is to play around with pystac and STAC generally. 
+
+See https://github.com/AustralianAntarcticDivision/remav2 for a vastly simpler way to hit up this tile mosaic. 

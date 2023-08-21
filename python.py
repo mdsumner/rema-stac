@@ -1,5 +1,9 @@
 ## working through this: https://stacspec.org/en/tutorials/2-create-stac-catalog-python/
 ## in R.R we look at the actual REMA json for clues
+
+# I'm using python3.8 because 3.11 is not enable-shared, and I force-installed
+##  rasterio==1.3.8 because the old one didn't handle vsicurl/tif 
+
 #reticulate::use_python("/usr/bin/python3.8")
 
 import os
